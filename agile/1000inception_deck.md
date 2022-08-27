@@ -6,7 +6,7 @@
 
 <img src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
 
-アジャイルサムライ(オーム社出版)
+アジャイルサムライ(オーム社出版)[https://www.amazon.co.jp/アジャイルサムライ−達人開発者への道−-Jonathan-Rasmusson/dp/4274068560]
 
 
 
