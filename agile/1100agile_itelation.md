@@ -114,7 +114,7 @@
 <img src="https://assets.asana.biz/m/5e945a00d197de79/original/inline-agile-scrum-vs-agile-2-ja-2x.jpg">
 
 
-title:アジャイル開発における設計書
+title:アジャイル開発における設計書【アジャイルサムライその4】
 
 description:アジャイルの分析のタイミングはギリギリで問題ない。なぜなら。顧客「あ！そのストーリーなんだけど使わなくなったわ！ごめん！」ということが平気で起こるからだ。
 
