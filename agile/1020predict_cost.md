@@ -187,11 +187,11 @@ https://www.amazon.co.jp/アジャイルサムライ−達人開発者への道�
 
 ## 備考
 
-title:アジャイル 見積もり方法【アジャイルサムライその2】
+title:アジャイル 見積もり方法【アジャイルサムライその3】
 
 description:問題は、見積もりから本来ありもしないものを読み取ってしまうこと。つまり、見積もりを未来の正確な予測だと思い込んでしまうことにある。
 
 
 img:https://eh-career.com/image/article_hub/40/41/140_01.jpg
 
-category_script:True
+category_script:True    
