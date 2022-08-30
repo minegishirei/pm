@@ -2,6 +2,21 @@
 
 
 
+
+
+# 参考書籍:アジャイルサムライ
+
+この記事は次の書籍を参考にしています。
+
+<img src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
+
+アジャイルサムライ(オーム社出版)
+
+
+https://www.amazon.co.jp/アジャイルサムライ−達人開発者への道−-Jonathan-Rasmusson/dp/4274068560
+
+
+
 # アジャイルでのイテレーションの回し方
 
 今回はアジャイルプロジェクトのイテレーションの回し方について扱う。
@@ -9,6 +24,8 @@
 プロジェクトマネジメントの背後にある仕掛けやイテレーションを使用した仕事について。
 
 ## アジャイルのイテレーションの目的:価値ある成果を毎週届ける
+
+<img src="https://udemy.benesse.co.jp/wp-content/uploads/1-1.jpg">
 
 アジャイルの計画段階or要件定義段階で作ったユーザーストーリーorインデックスカードがある。
 
@@ -113,6 +130,8 @@
 
 <img src="https://assets.asana.biz/m/5e945a00d197de79/original/inline-agile-scrum-vs-agile-2-ja-2x.jpg">
 
+
+## 備考
 
 title:アジャイル開発における設計書【アジャイルサムライその4】
 
