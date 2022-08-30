@@ -147,14 +147,130 @@ Webhookにも大量のタイプがあります。
 
 ```
 
+## 危なっかしい箇所を全てテストする
+
+「危なっかしいところを全てテスト」はエクストリーム・プログラミングのマントラだ。
+これは、システムを壊してしまう可能性が十分になるのなら、そこに対して自動化されたテストを書くべき、と言う愛初者としての心構えを表している。
 
 
+## テストコードを書くメリット
 
+- 素早いフィードバックが得られる
+
+コードに変更を加えてユニットテストが失敗したら「どこかを壊してしまった」と言うことがすぐにわかる（リリース後に判明するなどはあり得ない）
+
+- 極めて低コストにリグレッションテストを実行できる
+
+ユニットテストが自動化されていれば、リリースのたびに作業を再テストしなくて良くなる。
+簡単なテストの実行を自動化すれば、時間を大幅に節約できる。
+そうやって浮かせた時間は、もっと複雑なテストのために使える。
+
+- デバック時間を大幅に削減できる
+
+ユニットテストが失敗したら、どこを壊してしまったのかが正確にわかる。
+
+問題が発生した箇所を特定するために、いちいちデバッガを起動して数千業ものステップ実行をしたり、ソースコードを検索したりする必要がなくなる。
+
+
+- 自信を持ってデプロイできる
+
+自動化されたユニットテスト一式がソースを支えてくれると信じることができれば、安心してコードをリリースできる。
+ユニットテストがあれば絶対確実と言うわけではないが、一連のテストのおかげで、もっと関心をもらうべき部分や、複雑な機能のテストに気持ちを向けられる。
+
+
+## テストが難しいコード
+
+結論：テストが難しいコードは「ほぼほぼ設計に問題がある」と見て間違いない。
+
+なぜなら単体テストが難しい場面では、ソースコード同士に激しい結合が存在すると言うことであるからだ。
+
+モックフレームワークを使うことで、ランダムな結果を返すコードのモックテストを作ることもできる。
+
+
+## テスト条件の書き方
+
+<img src="https://www.ryuzee.com/contents/blog/images/7047/card.png">
+
+アジャイルのテスト条件は、基本的にはインデックスカードの裏に書く。
+
+例えば、トランプのデッキを作成することを確認したい時は
+
+- 「トランプのカードが52枚存在すること」
+
+- 「それぞれの柄が13枚あること」
+
+- ジョーカーが含まれていないこと
+
+と言うテスト条件が候補に上がる。
+
+これらをコードに起こすと以下の通りだ。
+
+```java
+[TestFixture]
+public class DeckTest2
+{
+    [Test]
+    public void Verify_deck_contains_52_cards()
+    {
+        var deck = new Deck();
+        Assert.AreEqual(52, deck.Count());
+    }
+    [Test]
+    public void Verify_deck_contains_thirteen_cards_for_each_suit()
+    {
+        var Deck = new Deck();
+        Assert.AreEqual(13, Deck.NumberOfHearts());
+        Assert.AreEqual(13, Deck.NumberOfClubs());
+        Assert.AreEqual(13, Deck.NumberOfDiamonds());
+        Assert.AreEqual(13, Deck.NumberOfSpades());
+    }
+    [Test]
+    public void Verify_deck_contains_no_joker()
+    {
+        var Deck = new Deck();
+        Assert.IsFalse(Deck.Contains(Card.JOKER));
+    }
+    [Test]
+    public void Check_every_card_in_the_deck()
+    {
+        var Deck = new Deck();
+        Assert.IsTrue(Deck.Contains(Card.TWO_OF_CLUBS));
+        Assert.IsTrue(Deck.Contains(Card.TWO_OF_DIAMONDS));
+        Assert.IsTrue(Deck.Contains(Card.TWO_OF_HEARTS));
+        Assert.IsTrue(Deck.Contains(Card.TWO_OF_SPADES));
+        Assert.IsTrue(Deck.Contains(Card.THREE_OF_CLUBS));
+        Assert.IsTrue(Deck.Contains(Card.THREE_OF_DIAMONDS));
+        Assert.IsTrue(Deck.Contains(Card.THREE_OF_HEARTS));
+        Assert.IsTrue(Deck.Contains(Card.THREE_OF_SPADES));
+        // the others
+    }
+```
+
+## ユニットテストまとめ
+
+ユニットテストを書くことは、書くコードの量が2倍になることを意味する。
+
+プログラミングが単なるタイピングであればその通りである。
+
+しかしながら、変更を加えるたびに、システム全体のリグレッションテストを実行する手間を省くことができる。
+
+**今後何度も変更が発生することを想定すれば、コストの面でもユニットテストを書くことは理にかなっている**
+
+また、テストを書くことでコードの設計が向上すると言うメリットもある。
+
+カバレッジについては100%は目指さなくても良い。
+目安としては80~90%前後となるが、これはチームで決めるべき内容である。
 
 
 
 ## ユニットテスト：動くことがわかる【アジャイルサムライその5】
 
-title:ユニットテスト：動くことがわかる【アジャイルサムライその5】
+title:ユニットテストのメリットと書き方【アジャイルサムライその5】
+
+description:テストを書くことでコードの設計が向上すると言うメリットもある。カバレッジについては100%は目指さなくても良い。目安としては80~90%前後となるが、これはチームで決めるべき内容である。
+
+img:https://eh-career.com/image/article_hub/40/41/140_01.jpg
+
+category_script:True    
 
 
