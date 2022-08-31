@@ -54,9 +54,61 @@ https://service.shiftinc.jp/column/4654/
 そのようにすることで、そのコードがなぜ存在するか、どのように使うのかが明確になる。
 
 
-## テスト駆動開発の例
+## テスト駆動開発のサンプルコード
 
-（工事中）
+例えば、顧客情報を管理するjavaクラスを作りたいとする。
+
+その場合のテストは「顧客のプロフィール情報を作成する」と言うコードを作ることで対応可能である。
+
+
+```java
+[Test]
+public void Create_Customer_Profile()
+{
+    // setup
+    var manager = new CustomerProfileManager();
+    // create a new customer profile
+    var profile = new CustomerProfile("Scotty McLaren", "Hagis");
+    // confirm it does not exist in the database
+    Assert.IsFalse(manager.Exists(profile.Id));
+    // add it
+    int uniqueId = manager.Add(profile); // get id from database
+    profile.Id = uniqueId;
+    // confirm it's been added
+    Assert.IsTrue(manager.Exists(uniqueId));
+    // clean up
+    manager.Remove(uniqueId);
+}
+```
+
+ここまで書いたコードには設計書などは存在しない。
+
+なぜならば、**このテストコードそのものが設計書だからである**
+
+そしてあなたはこのコードが実際に動くように、目的としていた顧客完了クラスを作成する。
+
+
+```java
+public class CustomerProfileManager
+{
+    public int Add(CustomerProfile profile){
+        // pretend this code stored the profile
+        // in the database, and returned a real id
+        return 0;
+    }
+    public bool Exists(int id){
+        // code to check if customer exists
+    }
+    public void Remove(int id){
+        // code to remove a customer from the database
+    }
+}
+```
+
+実際にコードを動かすと、当然のことながらエラーが出る。
+(内部の実装がまだまだ足りていないからだ)
+
+そしてコードの一部分をさらに改善し、テストがOKを出すまで改善してゆく。
 
 
 ## テストで複雑さを解消する
