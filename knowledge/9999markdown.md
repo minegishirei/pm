@@ -36,8 +36,10 @@
 
 ## 備考
 
-title:markdownでtableを書く方法(すぐわかるmarkdown)
+title:markdownでtableを書く方法【すぐわかるmarkdown】
 
 description:マークダウンの記法を用いることでhtmlのような複雑な手法を用いずとも直感的なテーブルを作成することが可能になります。
 
+img:https://zatsugaku-engineer.com/static/reveal-js/img/reveal-js1.png
 
+category_script:True
