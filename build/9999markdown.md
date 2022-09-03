@@ -5,62 +5,6 @@
 マークダウンの記法を用いることでhtmlのような複雑な手法を用いずとも直感的なテーブルを作成することが可能になります。
 
 
-## サンプルテーブル
-
-- employees
-
-
-
-<table>
-    <thead>
-        <tr>
-            <th>id</th>
-            <th>name</th>
-            <th>salary</th>
-            <th>dept_id</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1234</td>
-            <td>tarou</td>
-            <td>10,00
-            </td>
-            <td>20
-            </td>
-        </tr>
-        <tr>
-            <td>
-            1235
-            </td>
-            <td>
-            kaiou
-            </td>
-            <td>
-            20.000
-            </td>
-            <td>
-            20
-            </td>
-        </tr>
-        <tr>
-            <td>
-            1236
-            </td>
-            <td>
-            nanashi
-            </td>
-            <td>
-            30,00
-            </td>
-            <td>
-            10000
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-
 
 
 
