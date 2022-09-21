@@ -50,18 +50,14 @@ https://pm.short-tips.info/who/self_produce.md
 
 ## 各種リンク
 
+- FlameValue(Google)
+
 <a href="https://www.google.com/search?q=FlameValue">
-・FlameValue(Google)
 <img style="width: 50%;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
 </a>
 
 フレームワークごとの年収,求人分析サイトです。
 
-
-<a href="https://www.google.com/search?q=FlameValue">
-・FlameValue(Google)
-<img style="width: 50%;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
-</a>
 
 
 ## 備考
