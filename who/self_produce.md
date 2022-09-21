@@ -13,6 +13,14 @@
 - 友達
 
 
+## 概要:エンジニアやってます
+
+<img src="https://raw.githubusercontent.com/kawadasatoshi/minegishirei/main/img/beaver.png">
+
+エンジニア6年目(現:大手求人広告企業) / Python JS Django Docker MySQL / エンジニア採用担当 / みねぎしれい
+https://pm.short-tips.info/who/self_produce.md
+
+
 ## できること:エンジニア,リクルーター,ブロガー
 
 
