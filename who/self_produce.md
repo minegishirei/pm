@@ -15,8 +15,7 @@
 
 ## できること:エンジニア,リクルーター,ブロガー
 
-- マネジメント:記事執筆
-    1. アジャイル開発
+
 - エンジニア
     1. アーキテクト
         - docker
@@ -40,13 +39,18 @@
 
 ## 各種リンク
 
-
 <a href="https://www.google.com/search?q=FlameValue">
-・FlameValue
-
-<img src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
+・FlameValue(Google)<br>
+フレームワークごとの年収,求人分析サイト
+<img style="width: 50%;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
 </a>
 
+
+<a href="https://www.google.com/search?q=FlameValue">
+・FlameValue(Google)
+
+<img style="width: 50%;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
+</a>
 
 
 ## 備考
