@@ -1,8 +1,7 @@
-
-
+<header>
 <link href="https://raw.githubusercontent.com/kawadasatoshi/minegishirei/main/img/beaver.png" rel="icon">
 <link href="https://raw.githubusercontent.com/kawadasatoshi/minegishirei/main/img/beaver.png" rel="apple-touch-icon">
-
+</header>
 
 
 ## 想定読者
