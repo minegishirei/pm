@@ -15,9 +15,12 @@
 
 ## 概要:エンジニアやってます
 
-<img src="https://raw.githubusercontent.com/kawadasatoshi/minegishirei/main/img/beaver.png">
+<a href="https://www.google.com/search?q=%E3%81%BF%E3%81%AD%E3%81%8E%E3%81%97%E3%82%8C%E3%81%84">
+<img style="width:20%;" src="https://raw.githubusercontent.com/kawadasatoshi/minegishirei/main/img/beaver.png">
+</a>
 
 エンジニア6年目(現:大手求人広告企業) / Python JS Django Docker MySQL / エンジニア採用担当 / みねぎしれい
+
 https://pm.short-tips.info/who/self_produce.md
 
 
