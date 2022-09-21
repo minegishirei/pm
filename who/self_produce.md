@@ -41,9 +41,10 @@
 
 <a href="https://www.google.com/search?q=FlameValue">
 ・FlameValue(Google)
-フレームワークごとの年収,求人分析サイト
 <img style="width: 50%;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
 </a>
+
+フレームワークごとの年収,求人分析サイトです。
 
 
 <a href="https://www.google.com/search?q=FlameValue">
