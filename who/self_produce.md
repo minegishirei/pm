@@ -1,6 +1,6 @@
 <head>
-<link href="https://raw.githubusercontent.com/kawadasatoshi/minegishirei/main/img/beaver.png" rel="icon">
-<link href="https://raw.githubusercontent.com/kawadasatoshi/minegishirei/main/img/beaver.png" rel="apple-touch-icon">
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/kawadasatoshi/minegishirei/main/img/beaver.png">
+<link rel="apple-touch-icon" href="https://raw.githubusercontent.com/kawadasatoshi/minegishirei/main/img/beaver.png" >
 </head>
 
 
