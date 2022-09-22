@@ -121,7 +121,7 @@ https://pm.short-tips.info/who/self_produce.md
 
 title:みねぎしれいの名刺
 
-description:自己紹介がめんどくさくなった時に見せる
+description:エンジニア6年目 / Python Django Docker Javascript SQL / 人材関連企業の社内SE / みねぎしれい(minegishirei) / vim練習中です。
 
 
 
