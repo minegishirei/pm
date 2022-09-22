@@ -94,9 +94,7 @@ https://pm.short-tips.info/who/self_produce.md
 
 自分が好きな動物：ビーバー
 
-<td>
-    <img style="width: 30%; border-radius: 50%; padding-left: 30px;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/img/beaver_picture.png?raw=true">
-</td>
+<img style="width: 30%; border-radius: 50%; padding-left: 30px;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/img/beaver_picture.png?raw=true">
 
 
 ビーバー（ダムを造ることができる生き物）
