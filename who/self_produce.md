@@ -99,13 +99,16 @@ https://pm.short-tips.info/who/self_produce.md
 
 - Twitter
 
-<a class="twitter-timeline" href="https://twitter.com/se_maintain?ref_src=twsrc%5Etfw">Tweets by se_maintain</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://github.com/kawadasatoshi">
+<img style="width: 50%" src="https://twitter.com/se_maintain/photo">
+</a>
 
 - Github
 
 <a href="https://github.com/kawadasatoshi">
-https://github.com/kawadasatoshi
+<img style="width: 50%" src="https://avatars.githubusercontent.com/u/68362169?v=4">
 </a>
+
 
 - FlameValue(管理しているサービス)
 
