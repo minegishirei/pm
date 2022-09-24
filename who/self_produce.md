@@ -10,7 +10,7 @@
 ※もし読んだら一声かけてほしいです。
 
 
-## プロフィール欄:エンジニアです
+## プロフィール概要:エンジニアです
 
 <img style="width: 20%; border-radius: 50%;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/img/beaver.png?raw=true">
 
@@ -25,31 +25,13 @@ https://pm.short-tips.info/who/self_produce.md
 - とある大手の社内SEを経て現在は人材業界の社内SEとなりました。
 - 前職では「商品ダッシュボードプロジェクト」という商品企画プロセス関連のシステムの開発してます。
 - Web関連の技術が比較的得意です。
-- 趣味：3つ。
+- 趣味
   1. ショートカットキーを集めるのが好きで、とくに仮想デスクトップ関連のショートカットキーが、大好き。
   2. 人材関連のサイトと技術系のブログを運営していて、人材関連については日々勉強中。
   3. ゲームが好きでよく大学の同期としゃべりながらFPSしてたりします。
 
 
-## 各種リンク
-
-- 人材関連サイト（サムネイル）
-
-<a href="https://flamevalue.short-tips.info/">
-<img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
-</a>
-
-
-- 技術系ブログ
-
-<a href="https://pm.short-tips.info/">
-<img style="width: 50%; " src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
-</a>
-
-
-
-
-## 何ができるのか？:エンジニア,リクルーター,ブロガー
+## 職業:エンジニア,リクルーター,ブロガー
 
 
 - エンジニア(5pt)
@@ -76,6 +58,29 @@ https://pm.short-tips.info/who/self_produce.md
 
 
 
+## 成果物:Webアプリ/ブログ/バイト
+
+- 人材関連サイト（サムネイル）
+
+<a href="https://flamevalue.short-tips.info/">
+<img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
+</a>
+
+
+- 技術系ブログ
+
+<a href="https://pm.short-tips.info/">
+<img style="width: 50%; " src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
+</a>
+
+
+- 元バイト先のソフトウェア:iTFlow
+
+<a href="https://cfd.life/en/itflow/">
+<img style="width: 50%" src="https://cfd.life/wp-content/themes/cfd/movie/iTFlow_short.mp4">
+</a>
+
+
 ## アイコンのビーバーについて:ダムを造ることができる生き物
 
 自分が好きな動物：ビーバー
@@ -94,11 +99,25 @@ https://pm.short-tips.info/who/self_produce.md
 
 - Twitter
 
+<a class="twitter-timeline" href="https://twitter.com/se_maintain?ref_src=twsrc%5Etfw">Tweets by se_maintain</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Github
+
+<a href="https://github.com/kawadasatoshi">
+https://github.com/kawadasatoshi
+</a>
 
 - FlameValue(管理しているサービス)
 
-（Googleの検索結果をリンクにする）
+<a href="https://pm.short-tips.info/">
+<img style="width: 50%; " src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
+</a>
+
+
+
+## コンタクト/連絡先:Twitterでお願いします
+
+<a href="https://twitter.com/se_maintain?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @se_maintain</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## 備考
