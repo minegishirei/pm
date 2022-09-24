@@ -65,6 +65,7 @@ https://pm.short-tips.info/who/self_produce.md
 <a href="https://flamevalue.short-tips.info/">
 <img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
 </a>
+
 フレームワークを年収,求人数ごとにスコアリングするサイト : 求職者,プログラミング初心者,採用担当向け
 <br>
 
