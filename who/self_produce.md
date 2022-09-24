@@ -65,13 +65,17 @@ https://pm.short-tips.info/who/self_produce.md
 <a href="https://flamevalue.short-tips.info/">
 <img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
 </a>
-
+フレームワークを年収,求人数ごとにスコアリングするサイト : 求職者,プログラミング初心者,採用担当向け
+<br>
 
 - 技術系ブログ
 
 <a href="https://pm.short-tips.info/">
 <img style="width: 50%; " src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
 </a>
+学習した内容はここに記述します
+<br>
+
 
 
 - 元バイト先のソフトウェア:iTFlow
@@ -79,6 +83,8 @@ https://pm.short-tips.info/who/self_produce.md
 <a href="https://cfd.life/en/itflow/">
 <img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/iTFlow/iTFlow.png?raw=true">
 </a>
+学生時代のバイトで関わったソフトです（主にテスト面でですが）
+<br>
 
 ## アイコンのビーバーについて:ダムを造ることができる生き物
 
@@ -101,12 +107,16 @@ https://pm.short-tips.info/who/self_produce.md
 <a href="https://twitter.com/se_maintain">
 <img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/twitter/twitter.png?raw=true">
 </a>
+大体ここにいます
+<br>
 
 - Github
 
 <a href="https://github.com/kawadasatoshi">
 <img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/github/github.png?raw=true">
 </a>
+時々更新します
+<br>
 
 
 - FlameValue(管理しているサービス)
@@ -114,7 +124,8 @@ https://pm.short-tips.info/who/self_produce.md
 <a href="https://flamevalue.short-tips.info/">
 <img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
 </a>
-
+フレームワークを年収,求人数ごとにスコアリングするサイト : 求職者,プログラミング初心者,採用担当向け
+<br>
 
 
 ## コンタクト/連絡先:Twitterでお願いします
