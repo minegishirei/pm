@@ -77,9 +77,8 @@ https://pm.short-tips.info/who/self_produce.md
 - 元バイト先のソフトウェア:iTFlow
 
 <a href="https://cfd.life/en/itflow/">
-<img style="width: 50%" src="https://cfd.life/wp-content/themes/cfd/movie/iTFlow_short.mp4">
+<img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/iTFlow/iTFlow.png?raw=true">
 </a>
-
 
 ## アイコンのビーバーについて:ダムを造ることができる生き物
 
@@ -99,21 +98,21 @@ https://pm.short-tips.info/who/self_produce.md
 
 - Twitter
 
-<a href="https://github.com/kawadasatoshi">
-<img style="width: 50%" src="https://twitter.com/se_maintain/photo">
+<a href="https://twitter.com/se_maintain">
+<img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/twitter/twitter.png?raw=true">
 </a>
 
 - Github
 
 <a href="https://github.com/kawadasatoshi">
-<img style="width: 50%" src="https://avatars.githubusercontent.com/u/68362169?v=4">
+<img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/github/github.png?raw=true">
 </a>
 
 
 - FlameValue(管理しているサービス)
 
-<a href="https://pm.short-tips.info/">
-<img style="width: 50%; " src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
+<a href="https://flamevalue.short-tips.info/">
+<img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
 </a>
 
 
