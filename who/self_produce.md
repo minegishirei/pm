@@ -44,7 +44,7 @@
 アジャイル開発やアーキテクチャ等々。
 
 <a href="https://pm.short-tips.info/">
-<img src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
+<img src="https://github.com/kawadasatoshi/minegishirei/blob/main/pm/pm.png?raw=true">
 </a>
 
 <br>
@@ -55,8 +55,8 @@
 
 Python, Docker, Django, Powershell等々。
 
-<a href="https://pm.short-tips.info/">
-<img src="https://media.istockphoto.com/vectors/bookshelf-that-is-filled-with-a-lot-of-books-vector-id149325516?k=20&m=149325516&s=612x612&w=0&h=YRiIGUu3yA8is2NTeI_-cCN3xxF9caOw-eMW5Oodhms=">
+<a href="https://techblog.short-tips.info/">
+<img src="https://github.com/kawadasatoshi/minegishirei/blob/main/techblog/techblog.png?raw=true">
 </a>
 
 <br>
@@ -67,7 +67,7 @@ Python, Docker, Django, Powershell等々。
 職種やプログラミング言語、フレームワークごとに求人票を書くコツと見るべきポイントについて解説しています。
 
 <a href="https://career.short-tips.info/">
-<img src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
+<img src="https://github.com/kawadasatoshi/minegishirei/blob/main/career/career.png?raw=true">
 </a>
 
 <br>
