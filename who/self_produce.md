@@ -89,31 +89,31 @@ Python, Docker, Django, Powershell等々。
 
 
 - エンジニア(5pt)
-    1. アーキテクト
-        - docker
-        - Archtecture
-    2. コーディング
-        - Python
-        - Django
-        - Javascript
-        - SQL
-    3. タイピング
-        - ショートカットキー
-        - タイピング
-        - 仮想デスクトップ
-        - Vimmer
+    1. アーキテクト
+        - docker
+        - Archtecture
+    2. コーディング
+        - Python
+        - Django
+        - Javascript
+        - SQL
+    3. タイピング
+        - ショートカットキー
+        - タイピング
+        - 仮想デスクトップ
+        - Vimmer
 - ブロガー(3pt)
-    1. 記事執筆
-        - キーワード選定（キーワードプランナー）
-    2. SEO対策
-    3. サイト改善
-        - Google Search Console
-        - Google Analytics
+    1. 記事執筆
+        - キーワード選定（キーワードプランナー）
+    2. SEO対策
+    3. サイト改善
+        - Google Search Console
+        - Google Analytics
 - リクルーター(2pt)
-    1. 求人サイトの構築と求人動向分析
-        - FlameValue 
-    2. 記事作成
-        - careerブログ
+    1. 求人サイトの構築と求人動向分析
+        - FlameValue 
+    2. 記事作成
+        - careerブログ
 
 ## その他各種リンク:Twitter,Github,etc...
 
