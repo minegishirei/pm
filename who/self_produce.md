@@ -1,11 +1,8 @@
-
-
 ## 想定読者
 
-- 人事担当者
-- 面接担当者
-- 同期同僚友達
-- 本人から直接紹介された人
+人事担当者/ 面接担当者/ 同期同僚友達/ 本人から直接紹介された人
+
+ウェブ上の名刺です。
 
 ※もし読んだら一声かけてほしいです。
 
@@ -16,136 +13,151 @@
 
 エンジニア6年目 / Python Django Docker Javascript SQL / 人材関連企業の社内SE / みねぎしれい(minegishirei) / vim練習中です。
 
-https://pm.short-tips.info/who/self_produce.md
+### 自己紹介
+
+改めまして（みねぎしれい）と申します。
+
+心臓部の血流解析企業でアルバイト後、とある大手の社内SEを経て現在は人材業界の社内SEとなりました。
+前職では「商品ダッシュボードプロジェクト」という商品企画プロセス関連のシステムの開発してます。Web関連の技術が比較的得意です。
+
+趣味は個人開発とブログの運営でたまにゲームとかもします。
+
+どうぞよろしくお願いいたします。
 
 
-## 自己紹介:みねぎしれいです
+## 成果物:Webアプリ/ブログ/バイト
 
-- 改めまして（みねぎしれい）と申します。
-- とある大手の社内SEを経て現在は人材業界の社内SEとなりました。
-- 前職では「商品ダッシュボードプロジェクト」という商品企画プロセス関連のシステムの開発してます。
-- Web関連の技術が比較的得意です。
-- 趣味
-  1. ショートカットキーを集めるのが好きで、とくに仮想デスクトップ関連のショートカットキーが、大好き。
-  2. 人材関連のサイトと技術系のブログを運営していて、人材関連については日々勉強中。
-  3. ゲームが好きでよく大学の同期としゃべりながらFPSしてたりします。
+- 人材関連サイト
+
+フレームワークやプログラミング言語を年収,求人数ごとにスコアリングするサイト : 求職者,プログラミング初心者,採用担当向け
+
+<a href="https://flamevalue.short-tips.info/">
+<img src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
+</a>
+
+<br>
+
+- マネジメント系ブログ
+
+マネジメント系の技術ブログ。
+
+アジャイル開発やアーキテクチャ等々。
+
+<a href="https://pm.short-tips.info/">
+<img src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
+</a>
+
+<br>
+
+- 技術系ブログ
+
+プログラミングやフレームワーク、インフラ管理等、実装系の学習した内容はここに記述します。
+
+Python, Docker, Django, Powershell等々。
+
+<a href="https://pm.short-tips.info/">
+<img src="https://media.istockphoto.com/vectors/bookshelf-that-is-filled-with-a-lot-of-books-vector-id149325516?k=20&m=149325516&s=612x612&w=0&h=YRiIGUu3yA8is2NTeI_-cCN3xxF9caOw-eMW5Oodhms=">
+</a>
+
+<br>
+
+
+- 人材系ブログ
+
+職種やプログラミング言語、フレームワークごとに求人票を書くコツと見るべきポイントについて解説しています。
+
+<a href="https://career.short-tips.info/">
+<img src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
+</a>
+
+<br>
+
+- 元バイト先のソフトウェア:iTFlow
+
+学生時代のバイトで関わったソフトです。（テスト、改修など）
+
+心臓部の血流を解析し、術後に異常が見られないかを検査します。
+
+<a href="https://cfd.life/en/itflow/">
+<img src="https://github.com/kawadasatoshi/minegishirei/blob/main/iTFlow/iTFlow.png?raw=true">
+</a>
+
+<br>
 
 
 ## 職業:エンジニア,リクルーター,ブロガー
 
 
 - エンジニア(5pt)
-    1. アーキテクト
-        - docker
-        - Archtecture
-    2. コーディング
-        - Python
-        - Django
-        - Javascript
-        - SQL
-    3. タイピング
-        - ショートカットキー
-        - タイピング
-        - 仮想デスクトップ
-        - Vimmer
+    1. アーキテクト
+        - docker
+        - Archtecture
+    2. コーディング
+        - Python
+        - Django
+        - Javascript
+        - SQL
+    3. タイピング
+        - ショートカットキー
+        - タイピング
+        - 仮想デスクトップ
+        - Vimmer
 - ブロガー(3pt)
-    1. 記事執筆
-    2. SEO対策
-    3. サイト改善
+    1. 記事執筆
+        - キーワード選定（キーワードプランナー）
+    2. SEO対策
+    3. サイト改善
+        - Google Search Console
+        - Google Analytics
 - リクルーター(2pt)
-    1. 求人サイトの構築と求人動向分析
-    2. 記事作成
+    1. 求人サイトの構築と求人動向分析
+        - FlameValue 
+    2. 記事作成
+        - careerブログ
+
+## その他各種リンク:Twitter,Github,etc...
+
+- Twitter
+
+大体ここにいます
+
+https://twitter.com/se_maintain
 
 
+- Github
 
-## 成果物:Webアプリ/ブログ/バイト
+時々更新します
 
-- 人材関連サイト（サムネイル）
+https://github.com/kawadasatoshi
 
-<a href="https://flamevalue.short-tips.info/">
-<img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
-</a>
+
+- FlameValue(管理しているサービス)
 
 フレームワークを年収,求人数ごとにスコアリングするサイト : 求職者,プログラミング初心者,採用担当向け
-<br>
 
-- 技術系ブログ
-
-<a href="https://pm.short-tips.info/">
-<img style="width: 50%; " src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
-</a>
-
-学習した内容はここに記述します
-<br>
+https://flamevalue.short-tips.info/
 
 
+## コンタクト:Twitterでお願いします
 
-- 元バイト先のソフトウェア:iTFlow
+<a href="https://twitter.com/se_maintain?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @se_maintain</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a href="https://cfd.life/en/itflow/">
-<img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/iTFlow/iTFlow.png?raw=true">
-</a>
 
-学生時代のバイトで関わったソフトです（主にテスト面でですが）
-<br>
+## アイコンのビーバー:ダムを造ることができる生き物
 
-## アイコンのビーバーについて:ダムを造ることができる生き物
-
-自分が好きな動物：ビーバー
 
 <img style="width: 30%; border-radius: 50%; padding-left: 30px;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/img/beaver_picture.png?raw=true">
 
 
-ビーバー（ダムを造ることができる生き物）
+ビーバー:ダムを造ることができる生き物
 
 **「自分の生活のために周囲の環境を作り替える、ヒト以外の唯一の動物」**
 
 英語には work like a beaver （ビーバーのように働く）という言葉がある。
 
 
-## 各種リンク
-
-- Twitter
-
-<a href="https://twitter.com/se_maintain">
-<img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/twitter/twitter.png?raw=true">
-</a>
-
-大体ここにいます
-<br>
-
-- Github
-
-<a href="https://github.com/kawadasatoshi">
-<img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/github/github.png?raw=true">
-</a>
-
-時々更新します
-<br>
-
-
-- FlameValue(管理しているサービス)
-
-<a href="https://flamevalue.short-tips.info/">
-<img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
-</a>
-
-フレームワークを年収,求人数ごとにスコアリングするサイト : 求職者,プログラミング初心者,採用担当向け
-<br>
-
-
-## コンタクト/連絡先:Twitterでお願いします
-
-<a href="https://twitter.com/se_maintain?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @se_maintain</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 ## 備考
 
-title:みねぎしれいの名刺
+title:みねぎしれい
 
 description:エンジニア6年目 / Python Django Docker Javascript SQL / 人材関連企業の社内SE / みねぎしれい(minegishirei) / vim練習中です。
-
-
-
-
-
