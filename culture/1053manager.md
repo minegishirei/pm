@@ -26,7 +26,11 @@
 
 ## エンジニア組織の文化確立のための参考書籍
 
+
+<img src="http://www.hanmoto.com/bd/img/9784873119656_600.jpg">
+
 参考：Googleのソフトウェアエンジニアリング
+
 
 https://www.oreilly.co.jp/books/9784873119656/
 
