@@ -161,3 +161,7 @@ https://flamevalue.short-tips.info/
 title:みねぎしれい
 
 description:エンジニア6年目 / Python Django Docker Javascript SQL / 人材関連企業の社内SE / みねぎしれい(minegishirei) / vim練習中です。
+
+img:https://github.com/kawadasatoshi/minegishirei/blob/main/img/beaver.png?raw=true
+
+category_script:True
