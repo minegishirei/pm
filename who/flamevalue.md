@@ -256,7 +256,7 @@ IndeedAPIも以前は存在してましたが、今現提供できる機能は�
 ## 備考
 
 
-title:あなたのプログラミング言語を年収や残業時間でスコアリングするサービスを作った【FlameValue】
+title:あなたのプログラミング言語を年収や残業時間でスコアリングするサービス【FlameValue】
 
 category_script:True
 
