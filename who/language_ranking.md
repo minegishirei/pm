@@ -8,7 +8,6 @@
 
 https://flamevalue.short-tips.info/ranking.html
 
-サムネイルはこんな感じ
 
 
 
