@@ -189,5 +189,4 @@ description:ですがGoogleでは、確立された大規模なチームには�
 
 category_script:True
 
-
 img:https://abikosan.com/wp-content/uploads/2018/06/Google-Logo-New.jpg
