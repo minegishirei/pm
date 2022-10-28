@@ -273,3 +273,4 @@ description:新卒エンジニアの教育で重要な6項目、「文書化、�
 
 category_script:True
 
+https://abikosan.com/wp-content/uploads/2018/06/Google-Logo-New.jpg

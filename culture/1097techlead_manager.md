@@ -185,8 +185,9 @@ https://www.oreilly.co.jp/books/9784873119656/
 title:テックリードとプロジェクトリーダーの違いと役割について
 
 description:ですがGoogleでは、確立された大規模なチームには、ほとんどの場合2人のリーダー (1人のテックリードと1人のエンジニアリングマネージャー) 
-がパートナーとして一緒に働くのが通例です。
+がパートナーとして一緒に働くのが通例です。+@Jeff Deanの伝説について
 
 category_script:True
 
 
+img:https://abikosan.com/wp-content/uploads/2018/06/Google-Logo-New.jpg

@@ -215,3 +215,5 @@ https://qiita.com/tomox1001/items/cca440ffd656d054d9f7
 title:エンジニアリング生産性測定方法
 
 description:ソフトウェアエンジニアリングにおいて「専門家がエンジニアリングの生産性そのものをデータ分析すること」は、会社が規模を拡大し、そのようなチームからの洞察を活用できるようになるにつれて、非常に価値があることが分かりました。
+
+https://abikosan.com/wp-content/uploads/2018/06/Google-Logo-New.jpg
