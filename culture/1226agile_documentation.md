@@ -301,3 +301,14 @@ img:https://abikosan.com/wp-content/uploads/2018/06/Google-Logo-New.jpg
 
 
 
+
+■本日の成果
+
+https://pm.short-tips.info/culture/1226agile_documentation.md
+
+■今日の感想
+
+もくもく会参加3回目でしたが、いろんなバックグラウンドを持つ方の話が聞けて勉強になります。
+
+
+

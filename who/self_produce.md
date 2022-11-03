@@ -11,7 +11,7 @@
 
 <img style="width: 20%; border-radius: 50%;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/img/beaver.png?raw=true">
 
-エンジニア6年目 / Python Django Docker Javascript SQL / 人材関連企業の社内SE / みねぎしれい(minegishirei) / vim練習中です。
+エンジニア6年目 / Python Django Docker Javascript SQL / 人材関連企業の社内SE / みねぎしれい(minegishirei) / Flamevalue開発者
 
 ### 自己紹介
 
@@ -20,12 +20,21 @@
 心臓部の血流解析企業でアルバイト後、とある大手の社内SEを経て現在は人材業界の社内SEとなりました。
 前職では「商品ダッシュボードプロジェクト」という商品企画プロセス関連のシステムの開発してます。Web関連の技術が比較的得意です。
 
-趣味は個人開発とブログの運営でたまにゲームとかもします。
+今はプログラミング言語ランキングサイトの運営とブログをやってます。
 
 どうぞよろしくお願いいたします。
 
 
-## 成果物:Webアプリ/ブログ/バイト
+## 成果物:Webアプリ/ブログ/バイトetc...
+
+
+### オンラインイベント講演
+
+プログラミング言語ランキングサイトのFlamevalueについての公演依頼をいただきました。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/se_maintain?ref_src=twsrc%5Etfw">@se_maintain</a> はじめまして。さくらインターネットにてWebサービス開発者の会というコミュニティを運営しています。11月中に夜・オンラインでイベントを行うのですが、プログラミング言語ランキングサイトについてお話いただけないでしょうか？ <a href="https://t.co/j2fv2GwXpj">https://t.co/j2fv2GwXpj</a></p>&mdash; Atsushi 🇯🇵 DevRel Meetup 11月2日・カンファレンスは3月10〜11日！ (@goofmint) <a href="https://twitter.com/goofmint/status/1587353125827944448?ref_src=twsrc%5Etfw">November 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 ### 人材関連サイト
 
@@ -85,6 +94,7 @@ Python, Docker, Django, Powershell等々。
 <br>
 
 
+
 ## 職業:エンジニア,リクルーター,ブロガー
 
 
@@ -106,12 +116,13 @@ Python, Docker, Django, Powershell等々。
     1. 記事執筆
         - キーワード選定（キーワードプランナー）
     2. SEO対策
-    3. サイト改善
+    3. サイト改善(セミナー等参加)
         - Google Search Console
         - Google Analytics
-- リクルーター(2pt)
+- リクルーター(3pt)
     1. 求人サイトの構築と求人動向分析
         - FlameValue 
+        - 講演会実施
     2. 記事作成
         - careerブログ
 
