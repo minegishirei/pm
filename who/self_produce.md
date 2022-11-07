@@ -3,8 +3,7 @@
 人事担当者/ 面接担当者/ 同期同僚友達/ 本人から直接紹介された人
 
 ウェブ上の名刺です。
-
-※もし読んだら一声かけてほしいです。
+もし読んだら一声かけていただけると幸いです。
 
 
 ## プロフィール概要:エンジニアです
@@ -100,8 +99,8 @@ Python, Docker, Django, Powershell等々。
 
 - エンジニア(5pt)
     1. アーキテクト
-        - docker
-        - Archtecture
+        - [docker](https://techblog.short-tips.info/docker/)
+        - [Archtecture](https://techblog.short-tips.info/inhouse_se/)
     2. コーディング
         - Python
         - Django
@@ -112,19 +111,28 @@ Python, Docker, Django, Powershell等々。
         - タイピング
         - 仮想デスクトップ
         - Vimmer
+    4. マネジメント
+        - リファレンスドキュメント
+        - コードレビュー
+        - 情報共有
 - ブロガー(3pt)
     1. 記事執筆
         - キーワード選定（キーワードプランナー）
     2. SEO対策
     3. サイト改善(セミナー等参加)
+        - 既存ページの改修
+    4. ツール使用
         - Google Search Console
         - Google Analytics
+    5. マネタイズ
+        - Adsense
 - リクルーター(3pt)
     1. 求人サイトの構築と求人動向分析
-        - FlameValue 
+        - FlameValue(プログラミング言語ランキングサイト)
         - 講演会実施
     2. 記事作成
         - careerブログ
+
 
 ## その他各種リンク:Twitter,Github,etc...
 
