@@ -102,19 +102,21 @@ Python, Docker, Django, Powershell等々。
         - [docker](https://techblog.short-tips.info/docker/)
         - [Archtecture](https://techblog.short-tips.info/inhouse_se/)
     2. コーディング
-        - Python
-        - Django
-        - Javascript
-        - SQL
+        - [Python](https://techblog.short-tips.info/python/)
+        - [Django](https://techblog.short-tips.info/python/)
+        - [Javascript](https://techblog.short-tips.info/javascript/)
+        - [SQL](https://techblog.short-tips.info/sql/)
     3. タイピング
         - ショートカットキー
         - タイピング
         - 仮想デスクトップ
         - Vimmer
+        - 指トレ
     4. マネジメント
         - リファレンスドキュメント
         - コードレビュー
         - 情報共有
+        - アジャイル
 - ブロガー(3pt)
     1. 記事執筆
         - キーワード選定（キーワードプランナー）
