@@ -114,6 +114,7 @@ Python, Docker, Django, Powershell等々。
         - 仮想デスクトップ
         - Vimmer
         - 指トレ
+        - HHKB
     4. マネジメント
         - リファレンスドキュメント
         - コードレビュー
