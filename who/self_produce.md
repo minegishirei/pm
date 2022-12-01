@@ -139,6 +139,14 @@ Python, Docker, Django, Powershell等々。
         - careerブログ
 
 
+その他取り組んでいること
+
+- 営業
+    - スキルの売り込みのため
+
+
+
+
 ## その他各種リンク:Twitter,Github,etc...
 
 - Twitter
