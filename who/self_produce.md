@@ -103,6 +103,7 @@ Python, Docker, Django, Powershell等々。
     1. アーキテクト
         - [docker](https://techblog.short-tips.info/docker/)
         - [Archtecture](https://techblog.short-tips.info/inhouse_se/)
+        - [合意形成](https://pm.short-tips.info/communication/)
     2. コーディング
         - [Python](https://techblog.short-tips.info/python/)
         - [Django](https://techblog.short-tips.info/python/)
