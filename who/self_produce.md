@@ -98,7 +98,6 @@ Python, Docker, Django, Powershell等々。
 
 ## 職業:エンジニア,リクルーター,ブロガー
 
-
 - エンジニア(5pt)
     1. アーキテクト
         - [docker](https://techblog.short-tips.info/docker/)
@@ -117,10 +116,10 @@ Python, Docker, Django, Powershell等々。
         - 指トレ
         - HHKB
     4. マネジメント
-        - リファレンスドキュメント
-        - コードレビュー
+        - [リファレンスドキュメント](https://pm.short-tips.info/culture/1217documentation.md)
+        - [コードレビュー](https://pm.short-tips.info/culture/1040team.md)
         - 情報共有
-        - アジャイル
+        - [アジャイル](https://pm.short-tips.info/agile/1000inception_deck.md)
 - ブロガー(3pt)
     1. 記事執筆
         - キーワード選定（キーワードプランナー）
@@ -134,24 +133,17 @@ Python, Docker, Django, Powershell等々。
         - Adsense
 - リクルーター(3pt)
     1. 求人サイトの構築と求人動向分析
-        - FlameValue(プログラミング言語ランキングサイト)
-        - 講演会実施
+        - [FlameValue(プログラミング言語ランキングサイト)](https://flamevalue.short-tips.info/)
+        - [講演会実施](https://twitter.com/goofmint/status/1587353125827944448)
     2. 記事作成
         - careerブログ
 
-## 今後必要になるであろう知識
 
-- アーキテクトとして... 製品知識
+## 今後意識すること
 
-- リクルーターとして... ドメインの理解
-
-- コーディングとして... 達人プログラマー
+1. エンジニアリング能力（特にシステムアーキテクトとしての）のレベル上げ
 
 
-## その他取り組んでいること
-
-- 営業
-    - スキルの売り込みのため
 
 
 
