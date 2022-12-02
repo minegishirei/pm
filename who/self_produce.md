@@ -138,7 +138,6 @@ Python, Docker, Django, Powershell等々。
     2. 記事作成
         - careerブログ
 
-
 その他取り組んでいること
 
 - 営業
