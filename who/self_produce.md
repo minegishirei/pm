@@ -112,7 +112,7 @@ Python, Docker, Django, Powershell等々。
         - ショートカットキー
         - タイピング
         - 仮想デスクトップ
-        - Vimmer
+        - [Vim](https://techblog.short-tips.info/vim/)
         - 指トレ
         - HHKB
     4. マネジメント
@@ -131,7 +131,7 @@ Python, Docker, Django, Powershell等々。
         - Google Analytics
     5. マネタイズ
         - Adsense
-- リクルーター(3pt)
+- リクルーター(2pt)
     1. 求人サイトの構築と求人動向分析
         - [FlameValue(プログラミング言語ランキングサイト)](https://flamevalue.short-tips.info/)
         - [講演会実施](https://twitter.com/goofmint/status/1587353125827944448)
@@ -144,12 +144,12 @@ Python, Docker, Django, Powershell等々。
 - エンジニアリング能力（特にシステムアーキテクトとしての）のレベル上げ
     1. 人材業界というドメインについての専門知識を持つこと
     2. アーキテクトとしての知識を蓄えること
-    3. 何らかのレベルで合意形成を得ること
+    3. 何らかのレベルで合意形成を得ること⇨アーキテクチャ・ハードパーツ
 
 そのために必要なこと
 
 1. アーキテクトとしてのコミュニティ作成
-
+2. アーキテクチャ・ハードパーツ
 
 
 ## その他各種リンク:Twitter,Github,etc...
