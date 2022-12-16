@@ -147,3 +147,5 @@ description:この記事は「エンジニアの要件定義時の会話法」�
 
 
 category_script:True
+
+img:https://thumb.ac-illust.com/ef/ef6a3263f6ae7b64e16b5a1d8e76219f_t.jpeg

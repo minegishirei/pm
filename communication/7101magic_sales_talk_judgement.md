@@ -113,3 +113,5 @@ description「今回はOOについてのお問い合わせのお電話を頂い�
 
 
 category_script:True
+
+img:https://thumb.ac-illust.com/3c/3cac644f90b74fd7bdce822f277aa431_t.jpeg
