@@ -6,12 +6,10 @@
 もし読んだら一声かけていただけると幸いです。
 
 
-## プロフィール概要:テクニカルライターです
+## プロフィール概要
 
 <img style="width: 20%; border-radius: 50%;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/img/beaver.png?raw=true">
 
-テクニカルライターです。
-私自身が保有する技術をブログ/SNS/紙媒体で可能な限りわかりやすく解説します。
 
 エンジニア6年目 / Python Django Docker Javascript SQL / 人材関連企業の社内SE / みねぎしれい(minegishirei) / Flamevalue開発者
 
