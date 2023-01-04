@@ -180,46 +180,6 @@ https://flamevalue.short-tips.info/
 <a href="https://twitter.com/se_maintain?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @se_maintain</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-## アイコンのビーバー:ダムを造ることができる生き物
-
-
-<img style="width: 30%; border-radius: 50%; padding-left: 30px;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/img/beaver_picture.png?raw=true">
-
-
-ビーバー:ダムを造ることができる生き物
-
-**「自分の生活のために周囲の環境を作り替える、ヒト以外の唯一の動物」**
-
-英語には work like a beaver （ビーバーのように働く）という言葉がある。
-
-
-
-## note pad
-
-これからの候補
-
-- アーキテクトとしての実力向上
-
-- 心理学
-
-- React Native(れいぞうこにあるぞう)
-
-- 営業の心得
-
-
-## Going to
-
-- 今年度の状態:エンジニアとしての完成度は高い
-    というよりエンジニアリング以外の選択肢がなかった
-
-- 来年度の状態:エンジニアの技術力をラッピングして出力するメソッドを手に入れる
-    というより結果を重視すること
-    
-- 意識しておくべきこと:心理学と観察
-
-
-
-
 
 
 ## 備考
