@@ -31,6 +31,52 @@
 どうぞよろしくお願いいたします。
 
 
+## 経歴
+
+
+
+
+
+## スキル
+
+- エンジニア(5pt)
+    1. アーキテクト
+        - [docker 2年](https://techblog.short-tips.info/docker/)
+        - [Archtecture](https://techblog.short-tips.info/inhouse_se/)
+    2. コーディング
+        - [Python 6年](https://techblog.short-tips.info/python/)
+        - [Django 4年](https://techblog.short-tips.info/python/)
+        - [Javascript 4年](https://techblog.short-tips.info/javascript/)
+        - [SQL 3年](https://techblog.short-tips.info/sql/)
+        - [React-Native 1年]()
+        - [VB 1年]()
+        - [C# 2年]()
+    3. タイピング
+        - [Vim](https://techblog.short-tips.info/vim/)
+    4. マネジメント
+        - [リファレンスドキュメント](https://pm.short-tips.info/culture/1217documentation.md)
+        - [コードレビュー](https://pm.short-tips.info/culture/1040team.md)
+        - [アジャイル](https://pm.short-tips.info/agile/1000inception_deck.md)
+- ブロガー(3pt)
+    1. 記事執筆
+        - キーワード選定（キーワードプランナー）
+    2. SEO対策
+    3. サイト改善(セミナー等参加)
+        - 既存ページの改修
+    4. ツール使用
+        - Google Search Console
+        - Google Analytics
+    5. マネタイズ
+        - Adsense
+- リクルーター(2pt)
+    1. 求人サイトの構築と求人動向分析
+        - [FlameValue(プログラミング言語ランキングサイト)](https://flamevalue.short-tips.info/)
+        - [講演会実施](https://twitter.com/goofmint/status/1587353125827944448)
+    2. 記事作成
+        - careerブログ
+
+
+
 ## 成果物
 
 
@@ -101,50 +147,6 @@ Python, Docker, Django, Powershell等々。
 
 <br>
 
-
-
-## 職業:エンジニア,リクルーター,ブロガー
-
-- エンジニア(5pt)
-    1. アーキテクト
-        - [docker](https://techblog.short-tips.info/docker/)
-        - [Archtecture](https://techblog.short-tips.info/inhouse_se/)
-        - [合意形成](https://pm.short-tips.info/communication/)
-    2. コーディング
-        - [Python](https://techblog.short-tips.info/python/)
-        - [Django](https://techblog.short-tips.info/python/)
-        - [Javascript](https://techblog.short-tips.info/javascript/)
-        - [SQL](https://techblog.short-tips.info/sql/)
-        - [React-Native]
-    3. タイピング
-        - ショートカットキー
-        - タイピング
-        - 仮想デスクトップ
-        - [Vim](https://techblog.short-tips.info/vim/)
-        - 指トレ
-        - HHKB
-    4. マネジメント
-        - [リファレンスドキュメント](https://pm.short-tips.info/culture/1217documentation.md)
-        - [コードレビュー](https://pm.short-tips.info/culture/1040team.md)
-        - 情報共有
-        - [アジャイル](https://pm.short-tips.info/agile/1000inception_deck.md)
-- ブロガー(3pt)
-    1. 記事執筆
-        - キーワード選定（キーワードプランナー）
-    2. SEO対策
-    3. サイト改善(セミナー等参加)
-        - 既存ページの改修
-    4. ツール使用
-        - Google Search Console
-        - Google Analytics
-    5. マネタイズ
-        - Adsense
-- リクルーター(2pt)
-    1. 求人サイトの構築と求人動向分析
-        - [FlameValue(プログラミング言語ランキングサイト)](https://flamevalue.short-tips.info/)
-        - [講演会実施](https://twitter.com/goofmint/status/1587353125827944448)
-    2. 記事作成
-        - careerブログ
 
 
 
