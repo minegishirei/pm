@@ -127,6 +127,15 @@
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">4件目の発表は、みねぎしれいさん <a href="https://twitter.com/se_maintain?ref_src=twsrc%5Etfw">@se_maintain</a> による「『年収/採用企業』FlameValue フレームワークの転職評価のお話」です！<a href="https://t.co/IoyLIhoeEe">https://t.co/IoyLIhoeEe</a><a href="https://twitter.com/hashtag/%E3%81%95%E3%81%8F%E3%82%89%E3%81%AE%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3?src=hash&amp;ref_src=twsrc%5Etfw">#さくらのマイクロコミュニティ</a> <a href="https://t.co/qGsW8lURE2">pic.twitter.com/qGsW8lURE2</a></p>&mdash; さくらのコミュニティ (@sakura_users) <a href="https://twitter.com/sakura_users/status/1596108605715275777?ref_src=twsrc%5Etfw">November 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+### Qiita Top10入り
+
+現在はブログへの投稿がメインですが、QiitaのユーザーランキングでTop10入りすることができました。
+
+<img src="https://github.com/kawadasatoshi/minegishirei/blob/main/qiita/qiita_ranked.jpeg?raw=true">
+
+from 2022/10/10
+
 ### 人材関連サイト
 
 フレームワークやプログラミング言語を年収,求人数ごとにスコアリングするサイト : 求職者,プログラミング初心者,採用担当向け
