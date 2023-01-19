@@ -1,3 +1,5 @@
+
+
 ## 想定読者
 
 人事担当者/ 面接担当者/ 同期同僚友達/ 本人から直接紹介された人
@@ -9,7 +11,6 @@
 ## プロフィール概要
 
 <img style="width: 20%; border-radius: 50%;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/img/beaver.png?raw=true">
-
 
 エンジニア6年目 / Python Django Docker Javascript SQL / 人材関連企業の社内SE / みねぎしれい(minegishirei) / Flamevalue開発者
 
@@ -69,6 +70,7 @@
     1. アーキテクト
         - [docker 2年](https://techblog.short-tips.info/docker/)
         - [Archtecture](https://techblog.short-tips.info/inhouse_se/)
+        - [ツール選定](https://techblog.short-tips.info/provider/)
     2. コーディング
         - [Python 6年](https://techblog.short-tips.info/python/)
         - [Django 4年](https://techblog.short-tips.info/python/)
@@ -94,6 +96,13 @@
         - Google Analytics
     5. マネタイズ
         - Adsense
+- 交渉,合意形成(0pt)
+    1. なし
+
+
+以下はボツ案
+
+```md
 - リクルーター(2pt)
     1. 求人サイトの構築と求人動向分析
         - [FlameValue(プログラミング言語ランキングサイト)](https://flamevalue.short-tips.info/)
@@ -101,6 +110,8 @@
     2. 記事作成
         - careerブログ
 
+没理由:現在の会社で人材業界でのデータを扱う機会がほとんどないため
+```
 
 
 ## 成果物
