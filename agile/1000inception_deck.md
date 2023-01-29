@@ -536,3 +536,6 @@ description:然るべき人をみんな同じ部屋に集めて、プロジェ�
 img:https://eh-career.com/image/article_hub/40/41/140_01.jpg
 
 category_script:True
+
+
+redirect:https://blog.hatena.ne.jp/minegishirei/minegishirei.hatenablog.com/edit?entry=4207112889957970804

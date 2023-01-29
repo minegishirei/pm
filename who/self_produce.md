@@ -95,11 +95,12 @@
 
 ## スキル
 
-- エンジニア(5pt)
+- エンジニアリング
     1. アーキテクト
         - [docker 2年](https://techblog.short-tips.info/docker/)
         - [Archtecture](https://techblog.short-tips.info/inhouse_se/)
-        - [ツール選定](https://techblog.short-tips.info/provider/)
+        - [IaC](https://techblog.short-tips.info/iac/0000IAC.md)
+        - [AWS]()
     2. コーディング
         - [Python 6年](https://techblog.short-tips.info/python/)
         - [Django 4年](https://techblog.short-tips.info/python/)
@@ -108,25 +109,27 @@
         - [React-Native 1年]()
         - [VB 1年]()
         - [C# 2年]()
-    3. タイピング
-        - [Vim](https://techblog.short-tips.info/vim/)
-    4. マネジメント
+    3. マネジメント
         - [リファレンスドキュメント](https://pm.short-tips.info/culture/1217documentation.md)
         - [コードレビュー](https://pm.short-tips.info/culture/1040team.md)
         - [アジャイル](https://pm.short-tips.info/agile/1000inception_deck.md)
-- ブロガー(3pt)
-    1. 記事執筆
-        - キーワード選定（キーワードプランナー）
-    2. SEO対策
-    3. サイト改善(セミナー等参加)
-        - 既存ページの改修
-    4. ツール使用
-        - Google Search Console
-        - Google Analytics
-    5. マネタイズ
-        - Adsense
-- 交渉,合意形成(0pt)
-    1. なし
+- タイピング
+    1. タイピング
+        - 寿司打(3300円)
+    2. テキスト編集
+        - [Vim](https://techblog.short-tips.info/vim/)
+        - テキスト編
+    3. 移動
+        - ショートカットキー
+    4. ブログ
+- 交渉
+    1. (comming soon...)
+
+
+
+
+
+
 
 
 以下はボツ案
@@ -140,6 +143,26 @@
         - careerブログ
 
 没理由:現在の会社で人材業界でのデータを扱う機会がほとんどないため
+
+
+
+- ブロガー(3pt)
+    1. 記事執筆
+        - キーワード選定（キーワードプランナー）
+    2. SEO対策
+    3. サイト改善(セミナー等参加)
+        - 既存ページの改修
+    4. ツール使用
+        - Google Search Console
+        - Google Analytics
+    5. マネタイズ
+        - Adsense
+
+没理由:あまりにも結果が出ないため
+
+- 交渉
+
+没理由:
 ```
 
 
