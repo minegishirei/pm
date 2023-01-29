@@ -291,3 +291,6 @@ description:エンジニア6年目 / Python Django Docker Javascript SQL / 人�
 img:https://github.com/kawadasatoshi/minegishirei/blob/main/img/beaver.png?raw=true
 
 category_script:True
+
+redirect:https://minegishirei.hatenablog.com/entry/2023/01/27/114655
+
