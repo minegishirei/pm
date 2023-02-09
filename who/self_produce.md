@@ -11,6 +11,7 @@
   - [Cardio Flow Design](#cardio-flow-design)
   - [家具小売社内SE](#家具小売社内se)
   - [家具小売社内SE](#家具小売社内se-1)
+  - [子社支援](#子社支援)
 - [スキル](#スキル)
 - [成果物](#成果物)
   - [オンラインイベント講演](#オンラインイベント講演)
@@ -85,6 +86,9 @@
 - ライブラリ：Mecab(キーワード抽出), D3.js(ワードクラウド), echart(時系列グラフ)
 - フレームワーク：Django,Backbonejs
 - その他：Docker, SVN, MySQL
+
+
+### 子社支援
 
 
 
@@ -287,3 +291,6 @@ description:エンジニア6年目 / Python Django Docker Javascript SQL / 人�
 img:https://github.com/kawadasatoshi/minegishirei/blob/main/img/beaver.png?raw=true
 
 category_script:True
+
+redirect:https://minegishirei.hatenablog.com/entry/2023/01/27/114655
+
