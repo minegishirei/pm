@@ -34,7 +34,7 @@
 もし読んだら一声かけていただけると幸いです。
 
 
-## プロフィール概要
+## プロフィール概要 
 
 <img style="width: 20%; border-radius: 50%;" src="https://github.com/kawadasatoshi/minegishirei/blob/main/img/beaver.png?raw=true">
 
